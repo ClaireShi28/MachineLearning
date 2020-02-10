@@ -5,7 +5,6 @@ Instructions for Assignment 1 Code
 
 2) All the code, graphs, datasets used and report are accessible through:
 	https://github.com/ClaireShi28/MachineLearning/tree/master/Assignment1
-	
    To run the code, please download the folder "Code" and run the main.py file, all graphs and results will show.
 
 3) The data used for this study are from UCI Machine Learning Repository and can be accessed from Data folder.

@@ -4,6 +4,7 @@ Instructions for Assignment 1 Code
 	numpy(1.17.2 version), pandas(0.25.1 version), matplotlib(3.1.1 version), sklearn(0.0 version) and scikit-learn(0.22.1 version)
 
 2) All the code, graphs, datasets used and report are accessible through:
+	https://github.com/ClaireShi28/MachineLearning/tree/master/Assignment1
 	
    To run the code, please download the folder "Code" and run the main.py file, all graphs and results will show.
 

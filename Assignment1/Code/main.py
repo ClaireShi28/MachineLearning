@@ -39,6 +39,6 @@ def Process_air_quality():
     SVM.SVM(X, y, title="Air Pollution SVM",optimize=op)
 
 if __name__ == "__main__":
-    Process_air_quality()
     Process_wine_quality()
+    Process_air_quality()
 

@@ -1,3 +1,6 @@
+#Code reference:
+#https://github.com/wishesrepo/reinforcement_learning/blob/master/policy_gambler_1.ipynb
+
 import matplotlib.pyplot as plt
 import numpy as np
 import random
